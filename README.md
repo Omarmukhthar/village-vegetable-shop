@@ -66,18 +66,18 @@ village-vegetable-shop/
 1. Clone the repository
 ```bash
 git clone https://github.com/Omarmukhthar/village-vegetable-shop.git
-
+```
 Install dependencies
-
+```
 2. npm install
-
+```
 
 Create environment file
-
+```
 cp .env.example .env
-
+```
 
 Start development server
-
+```
 npm run dev
-
+```
